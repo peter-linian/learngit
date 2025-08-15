@@ -6,3 +6,4 @@ test branch.
 creating a new branch is quck & simple.
 creating a new branch feature1.
 add merge.
+Git is free software.
