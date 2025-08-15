@@ -6,3 +6,4 @@ creating a new branch.
 =======
 test branch.
 >>>>>>> dev
+creating a new branch feature1.
